@@ -1,0 +1,11 @@
+.counter-container {
+  text-align: center;
+  .counter-indicator {
+    font-size: 30px;
+  }
+  .increment-btn {
+    margin: 2rem;
+    min-width: 10rem;
+    min-height: 4rem;
+  }
+}
