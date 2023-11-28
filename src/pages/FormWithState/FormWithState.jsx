@@ -8,12 +8,12 @@ const FormWithState = () => {
 
       <form>
         <div>
-          <label forHtml="name">Name</label>
+          <label for="name">Name</label>
           <input type="text" id="name" />
         </div>
 
         <div>
-          <label forHtml="password">Password</label>
+          <label for="password">Password</label>
           <input type="password" id="password" />
         </div>
         <div>
